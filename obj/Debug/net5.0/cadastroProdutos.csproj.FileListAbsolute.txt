@@ -1,0 +1,16 @@
+D:\DIO\cadastroProdutos\obj\Debug\net5.0\cadastroProdutos.csproj.AssemblyReference.cache
+D:\DIO\cadastroProdutos\obj\Debug\net5.0\cadastroProdutos.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO\cadastroProdutos\obj\Debug\net5.0\cadastroProdutos.AssemblyInfoInputs.cache
+D:\DIO\cadastroProdutos\obj\Debug\net5.0\cadastroProdutos.AssemblyInfo.cs
+D:\DIO\cadastroProdutos\obj\Debug\net5.0\cadastroProdutos.csproj.CoreCompileInputs.cache
+D:\DIO\cadastroProdutos\bin\Debug\net5.0\cadastroProdutos.exe
+D:\DIO\cadastroProdutos\bin\Debug\net5.0\cadastroProdutos.deps.json
+D:\DIO\cadastroProdutos\bin\Debug\net5.0\cadastroProdutos.runtimeconfig.json
+D:\DIO\cadastroProdutos\bin\Debug\net5.0\cadastroProdutos.runtimeconfig.dev.json
+D:\DIO\cadastroProdutos\bin\Debug\net5.0\cadastroProdutos.dll
+D:\DIO\cadastroProdutos\bin\Debug\net5.0\ref\cadastroProdutos.dll
+D:\DIO\cadastroProdutos\bin\Debug\net5.0\cadastroProdutos.pdb
+D:\DIO\cadastroProdutos\obj\Debug\net5.0\cadastroProdutos.dll
+D:\DIO\cadastroProdutos\obj\Debug\net5.0\ref\cadastroProdutos.dll
+D:\DIO\cadastroProdutos\obj\Debug\net5.0\cadastroProdutos.pdb
+D:\DIO\cadastroProdutos\obj\Debug\net5.0\cadastroProdutos.genruntimeconfig.cache
